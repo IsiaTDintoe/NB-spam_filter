@@ -1,5 +1,5 @@
 # Building a Spam Filter with Naive Bayes Algorithm
-![img](spam.png)
+![img](C:\Users\Dintoe_T\Desktop\DQ\Spam-filter\spam.png)
 
 <center>Source:https://readus247.com/fix-yahoo-mail-spam-filter-not-working</center>
 
